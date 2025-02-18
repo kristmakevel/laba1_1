@@ -1,0 +1,11 @@
+# ninja log v6
+10	99	7616027987386835	CMakeFiles/MyProject.dir/src/utils.cpp.obj	b81ca543c9fd2439
+4	507	7616027987322255	CMakeFiles/MyProject.dir/src/main.cpp.obj	9fed8b1f3f9d6042
+45	123	7616028572049128	CMakeFiles/MyProject.dir/src/utils.cpp.obj	b81ca543c9fd2439
+37	498	7616028571965497	CMakeFiles/MyProject.dir/src/main.cpp.obj	9fed8b1f3f9d6042
+498	1070	7616028576576239	MyProject.exe	28d36de056838c48
+40	86	7616032661553108	CMakeFiles/MyProject.dir/src/utils.cpp.obj	b81ca543c9fd2439
+33	305	7616032661378509	CMakeFiles/MyProject.dir/src/main.cpp.obj	9fed8b1f3f9d6042
+305	424	7616032664205210	MyProject.exe	28d36de056838c48
+13	265	7616032822777936	CMakeFiles/MyProject.dir/src/main.cpp.obj	9fed8b1f3f9d6042
+265	370	7616032825288666	MyProject.exe	28d36de056838c48
